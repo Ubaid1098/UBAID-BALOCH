@@ -3,10 +3,10 @@
 Hello, I'm
 
 .home__name
-Ansel Klee
+UBAID BALOCH
 
 .home__education
-Frontend Developer
+Video Editor
 
 .home__social-link
 https://www.linkedin.com/
@@ -23,18 +23,16 @@ About Me
 
 .about__title | .about__subtitle
 Experience
-8 Years Working
+2 Years Working
 
 Completed
-48 + Projects
+12 + Projects
 
 Support
 Online 24/7
 
 .about__description
-Frontend developer, I create web pages with UI / UX user interface, 
-I have years of experience and many clients are happy 
-with the projects carried out.
+I'm a profesissional video editor and also work on vfxs and colour grading combos
 
 ========== SKILLS ==========	
 .section__subtitle | .section__title
@@ -42,43 +40,12 @@ My abilities
 My Experience
 
 .skills__title
-Frontend developer
-Backend Developer
-
+Video Editor.
+ Vfxs Artiest
 .skills__name | .skills__level
-HTML
-Basic
-
-CSS
-Advanced
-
-JavaScript
-Intermediate
-
-Bootstrap
-Intermediate
-
-Git
-Intermediate
-
-React
-Intermediate
-
-PHP
-Intermediate
-
-Node Js
-Basic
-
-Python
-Intermediate
-
-MySQL
-Intermediate
-
-Firebase
-Intermediate
-
+Video Editor
+Vfxs
+Advanced colour grading
 ========== SERVICES ==========
 .section__subtitle | .section__title
 My Services
@@ -158,13 +125,13 @@ Write me your project
 
 .contact__card-title | .contact__card-data
 Email
-user@gmail.com
+ubaidbaloch1098@gmail.com
 
 Whatsapp
-999-888-777
++92301-2602710
 
 Messenger
-user.fb123
+ubaidbaloch
 
 .contact__button
 mailto:examplemail@correo.com
@@ -175,7 +142,7 @@ https://m.me/bedimcode
 
 ========== FOOTER ==========
 .footer__title
-Ansel
+Ubaid Baloch
 
 .footer__link
 About
